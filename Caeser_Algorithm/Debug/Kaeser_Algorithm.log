@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Elzubair\source\repos\Kaeser_Algorithm\Source.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Elzubair\source\repos\Kaeser_Algorithm\Source.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Elzubair\source\repos\Kaeser_Algorithm\Source.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+  Kaeser_Algorithm.vcxproj -> C:\Users\Elzubair\source\repos\Kaeser_Algorithm\Debug\Kaeser_Algorithm.exe
